@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.newsflex{
+  width: 80%;
+  height: 50%;
+  margin-left: 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  background-color: #d6e0e9;
+  padding: 2px;  border: 2px solid black;
+}
